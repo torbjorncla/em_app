@@ -1,7 +1,7 @@
 apply plugin: 'scala'
 apply plugin: 'application'
 
-mainClassName = 'com.beng.emapp.EmApp'
+mainClassName = 'EmApp'
 
 repositories {
     jcenter()
